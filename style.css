@@ -40,9 +40,12 @@ h1, h2, h3 {
 }
 
 .claim {
+    text-align: center;      /* centra il testo */
     font-style: italic;
-    color: #B22222; /* rosso leggermente più chiaro */
+    color: #B22222;          /* rosso */
+    margin-top: 8px;        /* spazio sotto il titolo */
 }
+
 
 ul {
     list-style-type: none;
