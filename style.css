@@ -1,3 +1,9 @@
+/* Centrare il titolo h1 */
+h1 {
+    text-align: center; /* Allinea il testo al centro orizzontale */
+    margin-top: 50px; /* Distanza sopra il titolo */
+    font-size: 3em; /* Puoi regolare la dimensione come vuoi */
+}
 /* Reset base */
 * {
     margin: 0;
